@@ -37,7 +37,7 @@ scores one point.
 
 ```powershell
 # Clone the repository and change into it
-git clone <repository-url>
+git clone https://github.com/Srinadhch07/wordgame-cli-based-offline-game.git
 cd wordgame
 
 # Create and activate a virtual environment (Windows / PowerShell)
